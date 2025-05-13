@@ -1,7 +1,7 @@
 <h1 align="center"> ¡Hola! mi nombre es Jeremias Gonzalez 👋</h1>
 
 <p align="center">
-Android Developer | +3 años de experiencia en desarrollo de aplicaciones móviles
+Android Developer | +4 años de experiencia en desarrollo de aplicaciones móviles
   creando apps productivas y escalables. Especializado en el ecosistema Android, participo activamente en todas las etapas del ciclo de vida del desarrollo: desde la concepción y el análisis funcional hasta la implementación y el mantenimiento.
   Me enfoco en aplicar buenas prácticas y estándares promovidos por la comunidad, complementándolos con investigación propia para asegurar la calidad técnica y la eficiencia de las soluciones desarrolladas. Mi objetivo es construir aplicaciones robustas, bien estructuradas y orientadas a generar valor real para los usuarios y el negocio.
 
